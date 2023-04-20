@@ -23,4 +23,4 @@ python3 pipeline.py
 ```
 
 ## Author
-Balraj Singh Bains
+Shivender Khajuria
